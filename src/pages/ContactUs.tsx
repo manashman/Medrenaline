@@ -90,6 +90,197 @@ const ContactUs = () => {
               </a>
             </div>
 
+            {/* Medrenaline Team */}
+            <div className="w-full max-w-md p-4 rounded-lg mb-8">
+              <h2 className="text-2xl font-bold text-slate-800">
+                Meet the Team of Medrenaline'25
+              </h2>
+              <p className="text-slate-600 mt-2">
+                The Student Council 2025 - 26.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:grid-cols-3 gap-6 md:grid-cols-4 gap-6">
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Krishnakumar K</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>President</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Pranisha R</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Vice President</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Vishal Gogineni</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>General Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Muthu VS</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Joint General Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Yugneswar</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Treasurer</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Latchiya Poorani R</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Treasurer</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Manash B</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Campus Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Rohini</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Joint Campus Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Atheeq A</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Digital and Communication Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Ramesh</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Joint Digital and Communication Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Sanjay R</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Literary Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Mohanapriyaa P</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Joint Literary Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Rajan</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Cultural Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Sindhuri R</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Joint Cultural Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Rohith Balaji</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Sports Secretary</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mahashwethha */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900">Mitra</h4>
+                <div className="mt-3 space-y-2 text-slate-600">
+                  <a className="flex items-center justify-center gap-2.5 hover:text-blue-600 transition-colors">
+                    <span>Joint Sports Secretary</span>
+                  </a>
+                </div>
+              </div>
+            </div>  
+
+            <div className="w-full max-w-md p-4 rounded-lg mb-8">
+              <p className="text-slate-600 mt-2">
+                Behind our Quizzes.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h4 className="text-xl font-semibold text-slate-900"> KwetoManiaCz - The KMC'ian Quiz Club</h4>
+                <h1 className="text-xl font-  text-slate-900">Aravind A</h1>
+                
+              </div>
+
+              
+            </div>
+
+            
+            
             {/* Other Events */}
             <div className="w-full">
             <h3 className="text-lg font-semibold tracking-wider uppercase text-slate-700 mb-6">
