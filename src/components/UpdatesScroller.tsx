@@ -8,30 +8,10 @@ const UpdatesScroller = () => {
 
   const updates = [
     {
-      date: "2025-09-05",
-      title: "Registration Opens Soon!",
+      date: "2025-12-24",
+      title: "Announcement Coming Soon!",
       content:
-        "Workshop registrations will begin on September 5th, 2025. Stay tuned for exciting medical workshops and competitions!",
-      type: "announcement",
-    },
-    {
-      date: "2025-09-04",
-      title: "Venue Confirmed",
-      content:
-        "Medrenaline'25 will be held at the Govt. Kilpauk Medical College campus. All events, workshops, and competitions in one location!",
-      type: "info",
-    },
-    {
-      date: "2025-09-04",
-      title: "Call for Sponsors",
-      content:
-        "We're looking for sponsors to make Medrenaline'25 even bigger! Contact us for partnership opportunities.",
-      type: "opportunity",
-    },
-    {
-      date: "2025-09-05",
-      title : "Brochure is Out Now ! ",
-      Content : "Medrenaline’25 brochure is out now and registrations are open: https://drive.google.com/drive/folders/1iMbuYQsTyHr9O9_rvtKa6fRRlDUs0G6F - Register Now!",
+        "Medrenaline'26 Update Coming Soon - Stay Tuned!",
       type: "announcement",
     },
     
