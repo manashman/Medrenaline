@@ -29,7 +29,7 @@ const Navigation = () => {
               className="text-2xl font-bold text-black"
               style={{ fontFamily: "Ethnocentric Rg, sans-serif" }}
             >
-              Medrenaline
+              Medrenaline'2
             </h1>
           </Link>
 
