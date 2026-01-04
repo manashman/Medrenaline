@@ -262,33 +262,23 @@ const ContactUs = () => {
               </div>
             </div>  
 
-            <div className="w-full max-w-md p-4 rounded-lg mb-8">
-              <p className="text-slate-600 mt-2">
+            <div className="w-full max-w-md p-1 rounded-lg mb-2">
+              <p className="text-slate-600 mt-10">
                 Behind our Quizzes.
               </p>
             </div>
 
             <div className="grid grid-cols-1">
-              {/* Naresh */}
               <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
-                <h1 className="text-xl text-slate-900">Rohith S</h1>
-                <h1 className="text-xl text-slate-900">Karthikeyan T</h1>
-                <h1 className="text-xl text-slate-900">Nakhul R</h1>
-                <h1 className="text-xl text-slate-900">Aravind</h1>
-                <h1 className="text-xl text-slate-900">Abhishek</h1>
-                <h1 className="text-xl text-slate-900">Nithin Kannaa</h1>
-                <h1 className="text-xl text-slate-900">Bhaskar Subramanian KK</h1>
-                <h1 className="text-xl text-slate-900">Pankaj K Kotadia</h1>
-                <h1 className="text-xl text-slate-900">Thamizhazhagan</h1>
-                <h1 className="text-xl text-slate-900">Naveenraj SK</h1>
+                <h1 className="text-xl text-slate-900">Rohith S, Karthikeyan T, Nakhul R, Aravind, Abhishek, Nithin Kannaa, Bhaskar Subramanian KK, Pankaj K Kotadia, Thamizhazhagan, Naveenraj SK</h1>
                 
               </div>
 
               
             </div>
 
-            <div className="w-full max-w-md p-4 rounded-lg mb-8">
-              <p className="text-slate-600 mt-2">
+            <div className="w-full max-w-md p-1 rounded-lg mb-2">
+              <p className="text-slate-600 mt-10">
                 Behind our Workshops and Other Events.
               </p>
             </div>
@@ -296,7 +286,7 @@ const ContactUs = () => {
             <div className="grid grid-cols-1">
               {/* Naresh */}
               <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
-                <h1 className="text-xl text-slate-900">Makesh AB, NaveenRaj SK, Nanditha, Harini Sethu, Parethe, MarudhaVelan M, Prajwal A Gotkhindi, Mythrayee, Eva Kavyashree, Vivina P Junia, Karthikeyan T, Jayapriya S, Theayjusvini, Kavipriya DR, Akshay RM, Piyush Bharadwaj, Vishnu Teja AR, Shyam Balaji, Guru Sathya Sudhan, Shretharan PKS,Mythrayee, Jeyamari, Sathyashree S, Sanshitha D, Haseen Fatimah, Katheeja Mufliha, Prajwal A Gotkhindi, Srinisha, Swetha MR, Kavin Shankar S, Kaviyapriya, Bavisha D, Bharani, Saradha Devi, Narmadha S, Pankaj K Kotadia, Akash Subramaniam, Bhavagyna S and OUR JUNIORS - Garudaaz'23</h1></p>
+                <h1 className="text-xl text-slate-900">Makesh AB, NaveenRaj SK, Nanditha, Harini Sethu, Parethe, MarudhaVelan M, Prajwal A Gotkhindi, Mythrayee, Eva Kavyashree, Vivina P Junia, Karthikeyan T, Jayapriya S, Theayjusvini, Kavipriya DR, Akshay RM, Piyush Bharadwaj, Vishnu Teja AR, Shyam Balaji, Guru Sathya Sudhan, Shretharan PKS,Mythrayee, Jeyamari, Sathyashree S, Sanshitha D, Haseen Fatimah, Katheeja Mufliha, Prajwal A Gotkhindi, Srinisha, Swetha MR, Kavin Shankar S, Kaviyapriya, Bavisha D, Bharani, Saradha Devi, Narmadha S, Pankaj K Kotadia, Akash Subramaniam, Bhavagyna S</h1>
               </div>
 
 
@@ -306,7 +296,7 @@ const ContactUs = () => {
             
             {/* Other Events */}
             <div className="w-full">
-            <h3 className="text-lg font-semibold tracking-wider uppercase text-slate-700 mb-6">
+            <h3 className="text-lg font-semibold tracking-wider uppercase text-slate-1400 mb-2 mt-10">
               Our Other Events
             </h3>
             <div className="flex justify-center items-center gap-8 md:gap-12">
