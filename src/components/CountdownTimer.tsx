@@ -10,7 +10,7 @@ const CountdownTimer = () => {
   });
 
   useEffect(() => {
-    const targetDate = new Date("2025-09-26T09:00:00+05:30"); // 26th Sept 2025, 9:00 AM IST
+    const targetDate = new Date("2025-05-30T09:00:00+05:30"); // 26th Sept 2025, 9:00 AM IST
 
     const updateTimer = () => {
       const now = new Date().getTime();
@@ -49,7 +49,7 @@ const CountdownTimer = () => {
     <div className="w-full max-w-4xl mx-auto">
       <div className="text-center mb-8">
         <h2 className="text-2xl md:text-3xl font-bold mb-2 bg-gradient-primary bg-clip-text text-transparent">
-          Medrenaline'26 is coming soon!
+          MEDRENALINE 2026 IS COMING!
         </h2>
         <p className="text-muted-foreground">
           ANNOUNCEMENT COMING SOON - Stay Tuned!

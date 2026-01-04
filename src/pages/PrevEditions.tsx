@@ -64,15 +64,17 @@ const PrevEditions = () => {
             </p>
             <ScrollingGallery
               images={[
-                "/Prev_Editions/24/DSC01604.jpeg",
-                "/Prev_Editions/24/DSC01636.jpeg",
-                "/Prev_Editions/24/DSC01751.jpeg",
-                "/Prev_Editions/24/DSC01760.jpeg",
-                "/Prev_Editions/24/DSC01790.jpeg",
-                "/Prev_Editions/24/DSC01834.jpeg",
-                "/Prev_Editions/24/DSC01876.jpeg",
-                "/Prev_Editions/24/DSC02116.jpeg",
-                "/Prev_Editions/24/DSC02126.jpeg",
+                "/Prev_Editions/25/20250927_095902.jpeg",
+                "/Prev_Editions/25/IMG_3586.jpeg",
+                "/Prev_Editions/25/IMG_3600.jpeg",
+                "/Prev_Editions/25/IMG_3770.jpeg",
+                "/Prev_Editions/25/IMG_4165-Copy.jpeg",
+                "/Prev_Editions/25/IMG_4381.jpeg",
+                "/Prev_Editions/25/IMG_4474.jpeg",
+                "/Prev_Editions/25/IMG_4549.jpeg",
+                "/Prev_Editions/25/IMG_5130.jpeg",
+                "/Prev_Editions/25/IMG_5238-Copy.jpeg",
+                "/Prev_Editions/25/IMG_5349.heic",
               ]}
             />
           </section>
@@ -137,6 +139,11 @@ const PrevEditions = () => {
           </p>
           <ScrollingGallery
             images={[
+              "/Prev_Editions/22/IMG_2041.png",
+              "/Prev_Editions/22/IMG_2042.png",
+              "/Prev_Editions/22/IMG_2043.png",
+              "/Prev_Editions/22/IMG_2044.png",
+              "/Prev_Editions/22/IMG_2045.png",
               "/Prev_Editions/22/IMG_2041.png",
               "/Prev_Editions/22/IMG_2042.png",
               "/Prev_Editions/22/IMG_2043.png",

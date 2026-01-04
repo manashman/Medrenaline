@@ -93,7 +93,7 @@ const ContactUs = () => {
             {/* Medrenaline Team */}
             <div className="w-full max-w-md p-4 rounded-lg mb-8">
               <h2 className="text-2xl font-bold text-slate-800">
-                Meet the Team of Medrenaline'25
+                Team of Medrenaline'25
               </h2>
               <p className="text-slate-600 mt-2">
                 The Student Council 2025 - 26.
@@ -268,15 +268,77 @@ const ContactUs = () => {
               </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="grid grid-cols-1">
               {/* Naresh */}
               <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
-                <h4 className="text-xl font-semibold text-slate-900"> KwetoManiaCz - The KMC'ian Quiz Club</h4>
-                <h1 className="text-xl font-  text-slate-900">Aravind A</h1>
+                <h1 className="text-xl text-slate-900">Rohith S</h1>
+                <h1 className="text-xl text-slate-900">Karthikeyan T</h1>
+                <h1 className="text-xl text-slate-900">Nakhul R</h1>
+                <h1 className="text-xl text-slate-900">Aravind</h1>
+                <h1 className="text-xl text-slate-900">Abhishek</h1>
+                <h1 className="text-xl text-slate-900">Nithin Kannaa</h1>
+                <h1 className="text-xl text-slate-900">Bhaskar Subramanian KK</h1>
+                <h1 className="text-xl text-slate-900">Pankaj K Kotadia</h1>
+                <h1 className="text-xl text-slate-900">Thamizhazhagan</h1>
+                <h1 className="text-xl text-slate-900">Naveenraj SK</h1>
                 
               </div>
 
               
+            </div>
+
+            <div className="w-full max-w-md p-4 rounded-lg mb-8">
+              <p className="text-slate-600 mt-2">
+                Behind our Workshops and Other Events.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1">
+              {/* Naresh */}
+              <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
+                <h1 className="text-xl text-slate-900">Makesh AB</h1>
+                <h1 className="text-xl text-slate-900">NaveenRaj SK</h1>
+                <h1 className="text-xl text-slate-900">Nanditha</h1>
+                <h1 className="text-xl text-slate-900">Harini Sethu</h1>
+                <h1 className="text-xl text-slate-900">Parethe</h1>
+                <h1 className="text-xl text-slate-900">MarudhaVelan M</h1>
+                <h1 className="text-xl text-slate-900">Prajwal A Gotkhindi</h1>
+                <h1 className="text-xl text-slate-900">Mythrayee</h1>
+                <h1 className="text-xl text-slate-900">Eva Kavyashree</h1>
+                <h1 className="text-xl text-slate-900">Vivina P Junia</h1>
+                <h1 className="text-xl text-slate-900">Karthikeyan T</h1>
+                <h1 className="text-xl text-slate-900">Jayapriya S</h1>
+                <h1 className="text-xl text-slate-900">Theayjusvini</h1>
+                <h1 className="text-xl text-slate-900">Kavipriya DR</h1>
+                <h1 className="text-xl text-slate-900">Akshay RM</h1>
+                <h1 className="text-xl text-slate-900">Piyush Bharadwaj</h1>
+                <h1 className="text-xl text-slate-900">Vishnu Teja AR</h1>
+                <h1 className="text-xl text-slate-900">Shyam Balaji</h1>
+                <h1 className="text-xl text-slate-900">Guru Sathya Sudhan</h1>
+                <h1 className="text-xl text-slate-900">Shretharan PKS</h1>
+                <h1 className="text-xl text-slate-900">Mythrayee</h1>
+                <h1 className="text-xl text-slate-900">Jeyamari</h1>
+                <h1 className="text-xl text-slate-900">Sathyashree S</h1>
+                <h1 className="text-xl text-slate-900">Sanshitha D</h1>
+                <h1 className="text-xl text-slate-900">Haseen Fatimah</h1>
+                <h1 className="text-xl text-slate-900">Katheeja Mufliha</h1>
+                <h1 className="text-xl text-slate-900">Prajwal A Gotkhindi</h1>
+                <h1 className="text-xl text-slate-900">Srinisha</h1>
+                <h1 className="text-xl text-slate-900">Swetha MR</h1>
+                <h1 className="text-xl text-slate-900">Kavin Shankar S</h1>
+                <h1 className="text-xl text-slate-900">Kaviyapriya</h1>
+                <h1 className="text-xl text-slate-900">Bavisha D</h1>
+                <h1 className="text-xl text-slate-900">Bharani</h1>
+                <h1 className="text-xl text-slate-900">Saradha Devi</h1>
+                <h1 className="text-xl text-slate-900">Narmadha S</h1>
+                <h1 className="text-xl text-slate-900">Pankaj K Kotadia</h1>
+                <h1 className="text-xl text-slate-900">Akash Subramaniam</h1>
+                <h1 className="text-xl text-slate-900">Bhavagyna S</h1>
+                <p><h1 className="text-xl text-slate-900">OUR JUNIORS</h1>
+                <h1 className="text-xl text-slate-900">Garudaaz'23</h1></p>
+              </div>
+
+
             </div>
 
             
@@ -309,7 +371,7 @@ const ContactUs = () => {
                 className="w-48 h-48 bg-blue-100 backdrop-blur-sm rounded-2xl flex items-center justify-center border border-blue-200 shadow-lg overflow-hidden cursor-pointer hover:scale-105 transition-transform"
                 onClick={() =>
                   window.open(
-                    "https://www.instagram.com/pradharshini.kmc?igsh=MTdiMjVtbjhvajFqeA==",
+                    "https://pradharshini.vercel.app",
                     "_blank"
                   )
                 }
