@@ -99,7 +99,7 @@ const Index = () => {
           </div>
 
           <p
-            className="text-3xl md:text-4xl mb-2 font-bold text-slate-900"
+            className="text-3xl md:text-4xl mb-10 font-bold text-slate-900"
             style={{ fontFamily: "'Fopi Rush', cursive" }}
           >
             <span className="text-red-600">Feel</span>{" "}
@@ -108,11 +108,11 @@ const Index = () => {
 
           <p className="text-lg md:text-xl mb-4 max-w-2xl mx-auto text-slate-700">
             Join us for three days of medical excellence, innovation, and
-            celebration at Govt. Kilpauk Medical College
+            celebration at Government Kilpauk Medical College
           </p>
 
           {/* Buttons */}
-          <div className="flex flex-col sm:flex-row gap-3 justify-center mb-4">
+          <div className="flex flex-col sm:flex-row gap-3 justify-center mb-15">
             <Button
               size="lg"
               variant="gradient-hero"
@@ -127,7 +127,7 @@ const Index = () => {
 
       {/* Countdown */}
       <section className="py-6">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-4 mt-0 mb-0">
           <CountdownTimer />
         </div>
       </section>
