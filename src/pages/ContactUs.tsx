@@ -296,46 +296,7 @@ const ContactUs = () => {
             <div className="grid grid-cols-1">
               {/* Naresh */}
               <div className="bg-white/70 backdrop-blur-sm border border-slate-200/50 p-6 rounded-2xl shadow-lg text-center flex flex-col items-center">
-                <h1 className="text-xl text-slate-900">Makesh AB</h1>
-                <h1 className="text-xl text-slate-900">NaveenRaj SK</h1>
-                <h1 className="text-xl text-slate-900">Nanditha</h1>
-                <h1 className="text-xl text-slate-900">Harini Sethu</h1>
-                <h1 className="text-xl text-slate-900">Parethe</h1>
-                <h1 className="text-xl text-slate-900">MarudhaVelan M</h1>
-                <h1 className="text-xl text-slate-900">Prajwal A Gotkhindi</h1>
-                <h1 className="text-xl text-slate-900">Mythrayee</h1>
-                <h1 className="text-xl text-slate-900">Eva Kavyashree</h1>
-                <h1 className="text-xl text-slate-900">Vivina P Junia</h1>
-                <h1 className="text-xl text-slate-900">Karthikeyan T</h1>
-                <h1 className="text-xl text-slate-900">Jayapriya S</h1>
-                <h1 className="text-xl text-slate-900">Theayjusvini</h1>
-                <h1 className="text-xl text-slate-900">Kavipriya DR</h1>
-                <h1 className="text-xl text-slate-900">Akshay RM</h1>
-                <h1 className="text-xl text-slate-900">Piyush Bharadwaj</h1>
-                <h1 className="text-xl text-slate-900">Vishnu Teja AR</h1>
-                <h1 className="text-xl text-slate-900">Shyam Balaji</h1>
-                <h1 className="text-xl text-slate-900">Guru Sathya Sudhan</h1>
-                <h1 className="text-xl text-slate-900">Shretharan PKS</h1>
-                <h1 className="text-xl text-slate-900">Mythrayee</h1>
-                <h1 className="text-xl text-slate-900">Jeyamari</h1>
-                <h1 className="text-xl text-slate-900">Sathyashree S</h1>
-                <h1 className="text-xl text-slate-900">Sanshitha D</h1>
-                <h1 className="text-xl text-slate-900">Haseen Fatimah</h1>
-                <h1 className="text-xl text-slate-900">Katheeja Mufliha</h1>
-                <h1 className="text-xl text-slate-900">Prajwal A Gotkhindi</h1>
-                <h1 className="text-xl text-slate-900">Srinisha</h1>
-                <h1 className="text-xl text-slate-900">Swetha MR</h1>
-                <h1 className="text-xl text-slate-900">Kavin Shankar S</h1>
-                <h1 className="text-xl text-slate-900">Kaviyapriya</h1>
-                <h1 className="text-xl text-slate-900">Bavisha D</h1>
-                <h1 className="text-xl text-slate-900">Bharani</h1>
-                <h1 className="text-xl text-slate-900">Saradha Devi</h1>
-                <h1 className="text-xl text-slate-900">Narmadha S</h1>
-                <h1 className="text-xl text-slate-900">Pankaj K Kotadia</h1>
-                <h1 className="text-xl text-slate-900">Akash Subramaniam</h1>
-                <h1 className="text-xl text-slate-900">Bhavagyna S</h1>
-                <p><h1 className="text-xl text-slate-900">OUR JUNIORS</h1>
-                <h1 className="text-xl text-slate-900">Garudaaz'23</h1></p>
+                <h1 className="text-xl text-slate-900">Makesh AB, NaveenRaj SK, Nanditha, Harini Sethu, Parethe, MarudhaVelan M, Prajwal A Gotkhindi, Mythrayee, Eva Kavyashree, Vivina P Junia, Karthikeyan T, Jayapriya S, Theayjusvini, Kavipriya DR, Akshay RM, Piyush Bharadwaj, Vishnu Teja AR, Shyam Balaji, Guru Sathya Sudhan, Shretharan PKS,Mythrayee, Jeyamari, Sathyashree S, Sanshitha D, Haseen Fatimah, Katheeja Mufliha, Prajwal A Gotkhindi, Srinisha, Swetha MR, Kavin Shankar S, Kaviyapriya, Bavisha D, Bharani, Saradha Devi, Narmadha S, Pankaj K Kotadia, Akash Subramaniam, Bhavagyna S and OUR JUNIORS - Garudaaz'23</h1></p>
               </div>
 
 
